@@ -1,2 +1,2 @@
-# kbdusy
-A modified version of the United States International keyboard
+# kbdusm
+A customized version of the United States International keyboard with support for Paraguayan Guarani characters
